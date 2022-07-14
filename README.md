@@ -27,3 +27,5 @@ What percentage tip would you like to give ? 15
 How many people to split the bill ? 5
 Each person should pay: $33.92
 ```
+## Try Out This Project
+You can try out this project on my replit https://replit.com/@DracoPythondev/Tip-Calculator?v=1#main.py
